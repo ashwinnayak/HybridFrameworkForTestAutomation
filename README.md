@@ -1,4 +1,4 @@
-# MavenFrameworkForTestAutomation   
+# Hybrid Framework - SeleniumJavaJunitMavenForTestAutomation   
       
 Extract the zipped file attached here, import it into an IDE as a Maven project, explore the 'java' folder inside which all the test specific java files are stored.
 
